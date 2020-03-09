@@ -1,0 +1,25 @@
+.deck {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  height: 25vh;
+  position: relative;
+  text-align: center;
+}
+.deck:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+.deck .card {
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+  text-decoration: none;
+}
+.deck .card:hover {
+  background-color: #777;
+}
+
+/*# sourceMappingURL=deck.css.map */
