@@ -13,7 +13,7 @@ class App extends React.Component{
         {
           "id": 0,
           "name": "Sebastian",
-          "description": "I'm Sebastian Galvis, Developer with 4 years of experience, I worked with Spring Boot, Laravel, Angular, SQL y AWS, I like Express, React and develop for Web",
+          "description": "I'm Sebastian Galvis, Developer with 4 years of experience, I worked with Spring Boot, Laravel, Angular, SQL and AWS, I like Express, React and develop for Web",
           "image": images[0].src,
           "tech": images[6].src,
           "symbol": "Github",
@@ -58,7 +58,7 @@ class App extends React.Component{
         {
           "id": 4,
           "name": "Weather",
-          "description": "Weather widget build in react, using api.openweathermap, weather-icons and a little of bootstrap ",
+          "description": "Weather widget build with react, using api.openweathermap, weather-icons and a little of bootstrap ",
           "image": images[4].src,
           "tech": images[7].src,
           "symbol": "Demo",
