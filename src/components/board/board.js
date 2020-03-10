@@ -21,7 +21,9 @@ class Board extends React.Component {
         <div className="info">
           <div className="info-flex">
             <pre> {this.props.current.description}</pre>
-            <button>{this.props.current.info}</button>
+            <a href={this.props.current.info_url} target="_blank" rel="noopener noreferrer">
+              {this.props.current.info}
+            </a>
           </div>
         </div>
       </div>

@@ -5,7 +5,7 @@ class Header extends React.Component{
     return(
       <div className="header">
         <div className="content">
-          <h2>jsgalvish.tech</h2>
+          <h2>jsgalvish.github.io</h2>
           <div className="right">
             <a href="https://www.linkedin.com/in/js-galvis-h/" target="_blank" rel="noopener noreferrer">
               <img alt="linkedin" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCmFyaWEtbGFiZWw9IkxpbmtlZEluIiByb2xlPSJpbWciCnZpZXdCb3g9IjAgMCA1MTIgNTEyIgpmaWxsPSIjZmZmIj48cmVjdAp3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIKcng9IjE1JSIKZmlsbD0iIzAwNzdiNSIvPjxjaXJjbGUgY3g9IjE0MiIgY3k9IjEzOCIgcj0iMzciLz48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNjYiIGQ9Ik0yNDQgMTk0djE5OE0xNDIgMTk0djE5OCIvPjxwYXRoIGQ9Ik0yNzYgMjgyYzAtMjAgMTMtNDAgMzYtNDAgMjQgMCAzMyAxOCAzMyA0NXYxMDVoNjZWMjc5YzAtNjEtMzItODktNzYtODktMzQgMC01MSAxOS01OSAzMiIvPjwvc3ZnPg==" />

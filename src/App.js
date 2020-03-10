@@ -13,69 +13,69 @@ class App extends React.Component{
         {
           "id": 0,
           "name": "Sebastian",
-          "description": "Soy Sebastian Galvis, desarrollador con 4 años de experiencia, e trabajado con Spring Boot, Laravel, Angular, SQL y AWS, Me gusta Express, React y desarrollar para Web",
+          "description": "I'm Sebastian Galvis, Developer with 4 years of experience, I worked with Spring Boot, Laravel, Angular, SQL y AWS, I like Express, React and develop for Web",
           "image": images[0].src,
           "tech": images[6].src,
           "symbol": "Github",
           "symbol_url": "https://github.com/jsgalvish",
           "info": "CV",
-          "info_url": ""
+          "info_url": "https://drive.google.com/file/d/1rSvkRtMOGO3cV_fLB85_3tvuO2WP5qyh/view?usp=sharing"
 
         },
         {
           "id": 1,
           "name": "Solitarie",
-          "description": "Solitarie React",
+          "description": "Solitaire Card Game made with React, using Redux and vanilla javascript",
           "image": images[1].src,
           "tech": images[7].src,
           "symbol": "Demo",
-          "symbol_url": "",
+          "symbol_url": "https://jsgalvish.github.io/react-solitaire/",
           "info": "Source Code",
-          "info_url": ""
+          "info_url": "https://github.com/jsgalvish/react-solitaire"
         },
         {
           "id": 2,
           "name": "Chat",
-          "description": "Chat React",
+          "description": "Real time chat built in React, using socket.io and express and deployed in heroku (just wait a little when demo is starting)",
           "image": images[2].src,
           "tech": images[7].src,
           "symbol": "Demo",
-          "symbol_url": "",
+          "symbol_url": "https://react-chat-jsgalvish.herokuapp.com/",
           "info": "Source Code",
-          "info_url": ""
+          "info_url": "https://github.com/jsgalvish/react-chat"
         },
         {
           "id": 3,
           "name": "Pomodoro",
-          "description": "Pomodoro React",
+          "description": "Pomodoro Timer made 100% in React, a good time management method",
           "image": images[3].src,
           "tech": images[7].src,
           "symbol": "Demo",
-          "symbol_url": "",
+          "symbol_url": "https://jsgalvish.github.io/react-pomodoro/",
           "info": "Source Code",
-          "info_url": ""
+          "info_url": "https://github.com/jsgalvish/react-pomodoro"
         },
         {
           "id": 4,
-          "name": "Badges",
-          "description": "Badges React",
+          "name": "Weather",
+          "description": "Weather widget build in react, using api.openweathermap, weather-icons and a little of bootstrap ",
           "image": images[4].src,
           "tech": images[7].src,
           "symbol": "Demo",
-          "symbol_url": "",
+          "symbol_url": "https://jsgalvish.github.io/react-weather/",
           "info": "Source Code",
-          "info_url": ""
+          "info_url": "https://github.com/jsgalvish/react-weather"
         },
         {
           "id": 5,
-          "name": "Manager",
-          "description": "Manager React",
+          "name": "Map",
+          "description": "Mapbox implementation built in React and react-map-gl, using custom markers and props in Bogota City ",
           "image": images[5].src,
           "tech": images[7].src,
           "symbol": "Demo",
-          "symbol_url": "",
+          "symbol_url": "https://jsgalvish.github.io/react-map/",
           "info": "Source Code",
-          "info_url": ""
+          "info_url": "https://github.com/jsgalvish/react-map"
         }
 
       ],
